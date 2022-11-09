@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/run.dir/src/main.cxx.o CMakeFiles/run.dir/src/sys.cxx.o  -o run 

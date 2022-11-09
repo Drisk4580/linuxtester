@@ -1,0 +1,3 @@
+/home/haunted/cpp/build/CMakeFiles/rebuild_cache.dir
+/home/haunted/cpp/build/CMakeFiles/run.dir
+/home/haunted/cpp/build/CMakeFiles/edit_cache.dir

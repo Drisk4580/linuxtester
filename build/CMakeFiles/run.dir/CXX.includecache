@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/sys.h
+iostream
+-
+
+/home/haunted/cpp/src/main.cxx
+iostream
+-
+sys.h
+/home/haunted/cpp/src/sys.h
+
+/home/haunted/cpp/src/sys.cxx
+sys.h
+/home/haunted/cpp/src/sys.h
+iostream
+-
+
